@@ -2,7 +2,7 @@
 - 👀 I’m interested in aoili
 - 🌱 I’m currently learning to make aoili
 - 💞️ I’m looking to collaborate on aoili recipes
-- 📫 How to reach me aoili on a pidgeon
+- 📫 How to reach me a pigeon
 
 <!---
 Lord-of-Aoili/Lord-of-Aoili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
