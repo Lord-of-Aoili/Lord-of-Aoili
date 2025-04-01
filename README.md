@@ -12,9 +12,9 @@ I'm a software engineer based in Sydney, passionate about building clean, mainta
 ---
 
 ## 🧪 Featured Projects
-- 🕹️ [**Pac-Man (JavaFX)**](https://your-portfolio-site/projects/pacman_in_Java.md): AI-driven ghosts & OOP design patterns
-- 🖥️ [**Virtual Machine (C)**](https://your-portfolio-site/projects/virtual_machine_in_C.md): A mini RISC-V CPU emulator
-- ⚡ [**Power Line Fault Logger (Node.js)**](https://your-portfolio-site/projects/web_loggers.md): REST API logger with CSV export
+- 🖥️ [**Virtual Machine (C)**](https://github.com/Lord-of-Aoili/riscv-vm-in-c): A mini RISC-V CPU emulator
+- 🕹️ [**Pac-Man (JavaFX)**](https://github.com/Lord-of-Aoili/pacman-javafx): AI-driven ghosts & OOP design patterns
+- ⚡ [**Power Line Fault Logger (Node.js)**](https://github.com/Lord-of-Aoili/powerline-fault-logger): REST API logger with CSV export
 
 > ⚠️ I may or may not still be interested in aioli, but my syntax is always well seasoned.
 
